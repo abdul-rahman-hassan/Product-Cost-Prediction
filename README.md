@@ -1,0 +1,1 @@
+This project was for a kaggle competition, the goal was to predict the product prices.
